@@ -32,21 +32,27 @@ Estudiante avanzado de Ingeniería en Computación. Trabajé en el sector IT com
 ## Tech stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,py,java,cpp,godot&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,py,java,cpp,godot&theme=light&perline=8" alt="TypeScript, JavaScript, HTML, CSS, Python, Java, C++, Godot (GDScript)" />
-  </picture>
+  <img src="./assets/icons/ts.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/icons/js.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="./assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML" />
+  <img src="./assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/py-dark.svg" /><img src="./assets/icons/py-light.svg" width="48" height="48" alt="Python" title="Python" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/java-dark.svg" /><img src="./assets/icons/java-light.svg" width="48" height="48" alt="Java" title="Java" /></picture>
+  <img src="./assets/icons/cpp.svg" width="48" height="48" alt="C++" title="C++" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/godot-dark.svg" /><img src="./assets/icons/godot-light.svg" width="48" height="48" alt="Godot (GDScript)" title="Godot (GDScript)" /></picture>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sass,tailwind,vscode,git,github,vercel&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=sass,tailwind,vscode,git,github,vercel&theme=light&perline=8" alt="SCSS, Tailwind CSS, VS Code (Extension API), Git, GitHub, Vercel" />
-  </picture>
+  <img src="./assets/icons/sass.svg" width="48" height="48" alt="SCSS" title="SCSS" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/tailwind-dark.svg" /><img src="./assets/icons/tailwind-light.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/vscode-dark.svg" /><img src="./assets/icons/vscode-light.svg" width="48" height="48" alt="VS Code" title="VS Code" /></picture>
+  <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" title="Git" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/github-dark.svg" /><img src="./assets/icons/github-light.svg" width="48" height="48" alt="GitHub" title="GitHub" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/vercel-dark.svg" /><img src="./assets/icons/vercel-light.svg" width="48" height="48" alt="Vercel" title="Vercel" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code%20Extension%20API-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension API" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  <img src="./assets/icons/badge-vscode-api.svg" alt="VS Code Extension API" />
+  <img src="./assets/icons/badge-gdscript.svg" alt="GDScript" />
+  <img src="./assets/icons/badge-github-pages.svg" alt="GitHub Pages" />
 </p>
 
 ## Featured projects
